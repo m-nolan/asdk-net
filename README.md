@@ -20,4 +20,4 @@ Once you have anaconda installed, create the conda environment:
 `conda env create -f environment.yml`
 
 ##### Tutorial
-Check out `AIBS\ Ephys\ Data\ Load.ipynb` to get started with accessing the allensdk. This should provide a good framework for building our data access code.
+Check out `AIBS\ Ephys\ Data\ Load.ipynb` to get started with accessing the allensdk. This should provide a good framework for building our data access code. This will also produce functional association matrices for all trials of a requested stimulus set within the defined session.
